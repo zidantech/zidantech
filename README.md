@@ -8,7 +8,7 @@ Passionate 3D artist and modeller adept in game development using the Godot engi
 
 * 🌍  I'm based in Kaduna
 * ✉️  You can contact me at [zidantech4@gmail.com](mailto:zidantech4@gmail.com)
-* 🚀  I'm currently working on [A bakery website with the name: Bake N Share](http://(s)://bakenshare.github.io)
+* 🚀  I'm currently working on [A bakery website with the name: Bake N Share]([http://(s)://zidantech.github.io/bake-n-share/](https://zidantech.github.io/bake-n-share/)
 * 🧠  I'm learning Mangdb, Flask, Flutter, Next.js, Three.js
 * 🤝  I'm open to collaborating on Frontend Web development, Machine learning, Game development.
 
