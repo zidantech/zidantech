@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and designer, Game developer, Data Analyst.
 ---------------------------------------------------------
 
-Passionate 3D artist and modeller adept in game development using the Godot engine. Front-end web developer with React expertise, currently expanding skills into backend development with Node and Python. Eagerly learning data science with AREWA for future endeavors as a data analyst.
+Passionate 3D artist and modeller adept in game development using the Godot engine. Front-end web developer with React expertise, currently expanding skills into backend development with Node and Python.
 
-* 🌍  I'm based in Kaduna
+* 🌍  I'm based in Abuja
 * ✉️  You can contact me at [zidantech4@gmail.com](mailto:zidantech4@gmail.com)
-* 🚀  I'm currently working on [A bakery website with the name: Bake N Share]([http://(s)://zidantech.github.io/bake-n-share/](https://zidantech.github.io/bake-n-share/)
+* 🚀  I'm currently working on ...
 * 🧠  I'm learning Mangdb, Flask, Flutter, Next.js, Three.js
-* 🤝  I'm open to collaborating on Frontend Web development, Machine learning, Game development.
+* 🤝  I'm open to collaborating on Frontend Web development, Machine learning, Game development, 3D modeling.
 
 ### Skills
 
